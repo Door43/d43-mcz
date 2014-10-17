@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcz:home|Door43 (mcz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcz|d43-mcz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcz/archive/master.zip|d43-mcz.zip]]
+
+**Recent Changes**
+{{changes>ns = mcz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcz|Ethnologue data]]
+
